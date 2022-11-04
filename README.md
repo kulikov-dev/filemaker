@@ -1,6 +1,6 @@
-### Connector to the relational databases [FileMaker](https://help.claris.com/en/data-api-guide/content/index.html) for PHP 5.5 >=
+### Connector to the relational database [FileMaker](https://help.claris.com/en/data-api-guide/content/index.html) for PHP 5.5 >=
 
-The connector allows to communicate with the FileMaker tables through the REST API, realizing operations of obtaining and updating data. Support scripts.
+The connector allows to communicate with the FileMaker tables through the REST API, realizing operations of obtaining, finding and updating data. Support scripts.
 
 Before work you need to initialize a connector with your credentials:
 ``` php
